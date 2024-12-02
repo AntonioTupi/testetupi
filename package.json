@@ -1,0 +1,24 @@
+{
+  "name": "testetupi",
+  "version": "1.0.0",
+  "description": "teste coolify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioTupi/testetupi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioTupi/testetupi/issues"
+  },
+  "homepage": "https://github.com/AntonioTupi/testetupi#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
